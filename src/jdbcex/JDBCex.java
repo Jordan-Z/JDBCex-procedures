@@ -26,7 +26,7 @@ public class JDBCex {
         String driver = "oracle.jdbc.driver.OracleDriver";
 		String url = "jdbc:oracle:thin:@localhost:1521/orclpdb";
 		String username = "hr";
-		String password = "hr";
+		String password = "jordan";
 		Statement dbStatement = null;
 		ResultSet dbResultSet = null;
 		Connection conn = null;
